@@ -1,0 +1,8 @@
+@theme {
+  --font-IRANSans: "IRANSans", sans-serif;
+}
+@layer components {
+  .wrapper {
+    @apply w-5/6 flex justify-center items-center;
+  }
+}
