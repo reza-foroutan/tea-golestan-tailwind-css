@@ -1,9 +1,0 @@
-@theme {
-  --font-IRANSans: "IRANSans", sans-serif;
-  --text-e-global-color-primary: #ff0000;
-}
-@layer components {
-  .wrapper {
-    @apply w-5/6 flex justify-center items-center;
-  }
-}
